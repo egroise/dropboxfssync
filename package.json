@@ -17,5 +17,6 @@
   },
   "dependencies": {
     "dropbox": "^2.5.7"
-  }
+  },
+  "homepage": "https://github.com/egroise/dropboxfssync#readme"
 }
