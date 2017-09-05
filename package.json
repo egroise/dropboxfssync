@@ -1,0 +1,18 @@
+{
+  "name": "dropboxfssync",
+  "version": "1.0.0",
+  "description": "Synchronize a local folder with a dropbox folder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/egroise/dropboxfssync.git"
+  },
+  "author": "Eric GROISE <egroise@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/egroise/dropboxfssync/issues"
+  }
+}
